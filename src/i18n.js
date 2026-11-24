@@ -33,7 +33,7 @@ export const TRANSLATIONS = {
       previewBtn: 'Fotoğraf Dene',
       clearPhotoBtn: 'Sıfırla',
       photoToast:
-        'Fotoğraf önizlendi! Kalıcı yapmak için dosyayı public/eda-photo.jpg olarak kaydedebilirsin.',
+        'Fotoğraf önizlendi! Kalıcı yapmak için dosyayı public/eda-photo.png olarak kaydedebilirsin.',
     },
     about: {
       eyebrow: 'Eğitmen Profili',
@@ -397,7 +397,7 @@ export const TRANSLATIONS = {
       previewBtn: 'Preview Photo',
       clearPhotoBtn: 'Reset',
       photoToast:
-        'Portrait previewed! Save it as public/eda-photo.jpg to keep it permanently.',
+        'Portrait previewed! Save it as public/eda-photo.png to keep it permanently.',
     },
     about: {
       eyebrow: 'Educator Profile',

@@ -8,7 +8,7 @@ export const CONFIG = {
   email: '',
   instagramHandle: '',
   instagramUrl: '',
-  photoPath: './eda-photo.jpg',
+  photoPath: './eda-photo.png',
 };
 
 /**
